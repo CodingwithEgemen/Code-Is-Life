@@ -1,0 +1,14 @@
+C:\Users\EGEMEN\source\repos\Code Is Life HW1\Code Is Life HW1\bin\Debug\net9.0\Code Is Life HW1.exe
+C:\Users\EGEMEN\source\repos\Code Is Life HW1\Code Is Life HW1\bin\Debug\net9.0\Code Is Life HW1.deps.json
+C:\Users\EGEMEN\source\repos\Code Is Life HW1\Code Is Life HW1\bin\Debug\net9.0\Code Is Life HW1.runtimeconfig.json
+C:\Users\EGEMEN\source\repos\Code Is Life HW1\Code Is Life HW1\bin\Debug\net9.0\Code Is Life HW1.dll
+C:\Users\EGEMEN\source\repos\Code Is Life HW1\Code Is Life HW1\bin\Debug\net9.0\Code Is Life HW1.pdb
+C:\Users\EGEMEN\source\repos\Code Is Life HW1\Code Is Life HW1\obj\Debug\net9.0\Code Is Life HW1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EGEMEN\source\repos\Code Is Life HW1\Code Is Life HW1\obj\Debug\net9.0\Code Is Life HW1.AssemblyInfoInputs.cache
+C:\Users\EGEMEN\source\repos\Code Is Life HW1\Code Is Life HW1\obj\Debug\net9.0\Code Is Life HW1.AssemblyInfo.cs
+C:\Users\EGEMEN\source\repos\Code Is Life HW1\Code Is Life HW1\obj\Debug\net9.0\Code Is Life HW1.csproj.CoreCompileInputs.cache
+C:\Users\EGEMEN\source\repos\Code Is Life HW1\Code Is Life HW1\obj\Debug\net9.0\Code Is Life HW1.dll
+C:\Users\EGEMEN\source\repos\Code Is Life HW1\Code Is Life HW1\obj\Debug\net9.0\refint\Code Is Life HW1.dll
+C:\Users\EGEMEN\source\repos\Code Is Life HW1\Code Is Life HW1\obj\Debug\net9.0\Code Is Life HW1.pdb
+C:\Users\EGEMEN\source\repos\Code Is Life HW1\Code Is Life HW1\obj\Debug\net9.0\Code Is Life HW1.genruntimeconfig.cache
+C:\Users\EGEMEN\source\repos\Code Is Life HW1\Code Is Life HW1\obj\Debug\net9.0\ref\Code Is Life HW1.dll

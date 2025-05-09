@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Code Is Life HW1", "Code Is Life HW1\Code Is Life HW1.csproj", "{D5FA0D92-E55A-4556-8DFC-EEA640B6415F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5FA0D92-E55A-4556-8DFC-EEA640B6415F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5FA0D92-E55A-4556-8DFC-EEA640B6415F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5FA0D92-E55A-4556-8DFC-EEA640B6415F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5FA0D92-E55A-4556-8DFC-EEA640B6415F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B246A14B-3B3D-413E-AD33-81D0F1C898F8}
+	EndGlobalSection
+EndGlobal
