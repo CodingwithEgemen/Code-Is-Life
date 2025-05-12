@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Code Is Life HW3/1.0.0": {
+        "runtime": {
+          "Code Is Life HW3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Code Is Life HW3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
