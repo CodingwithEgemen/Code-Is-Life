@@ -1,10 +1,11 @@
 <h1 align="center">
   Code Is Life Bootcamp Program's Homework
-  <br/>
+  <br/><br/>
   <img src="https://yt3.googleusercontent.com/HRwK3NGrh1ITA3QutU1E3J8m7qPluPt9vU02JpkeOv0VyqpmLC1C0D8Vh95X1rRMe7vZnfDjaQ=s900-c-k-c0x00ffffff-no-rj" alt="Bootcamp Logo" width="150"/>
 </h1>
 
 <p align="center"><i>🚀</i></p>
+
 
 ---
 
